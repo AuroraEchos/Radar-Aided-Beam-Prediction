@@ -22,11 +22,7 @@
 
 #### 📊 数据集
 
-本项目基于 **DeepSense 6G Dataset**。请从 
-
-[官方页面]: https://www.deepsense6g.net/radar-aided-beam-prediction/
-
-下载相关场景数据并放在根目录下。
+本项目基于 **DeepSense 6G Dataset**。请从[官方页面](https://www.deepsense6g.net/radar-aided-beam-prediction/)下载相关场景数据并放在根目录下。
 
 #### 🚀 训练
 

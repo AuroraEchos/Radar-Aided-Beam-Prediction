@@ -1,4 +1,4 @@
-### Residual 3D CNN for Radar Beam Prediction
+## Residual 3D CNN for Radar Beam Prediction
 
 基于 **Residual 3D CNN** 的毫米波雷达波束预测方法。该项目利用 **DeepSense 6G** 数据集中的雷达回波，构建 **Range-Angle-Doppler (RAD) Cube**，并通过 **复数输入 + 残差 3D 卷积网络** 进行波束预测。在 **Top-5 精度** 和 **Beam Distance** 指标上取得一定的效果。
 
